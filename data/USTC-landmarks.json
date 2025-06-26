@@ -1,0 +1,18 @@
+[
+  {"landmark": "the_original_north_gate", "geo": "31.84269,117.26350"},
+  {"landmark": "east_campus_library", "amenity": "library", "geo": "31.83898,117.26387"},
+  {"landmark": "statue_of_GuoMoruo", "geo": "31.84042,117.26370"},
+  {"landmark": "Ruzi_Niu", "geo": "31.83754,117.26382"},
+  {"landmark": "1958", "amenity": "coffee", "geo": "31.84047,117.26321"},
+  {"landmark": "1st_teaching_building", "geo": "31.84114,117.26363"},
+  {"landmark": "gold_mine", "geo": "31.84086,117.26345"},
+  {"landmark": "2nd_teaching_building", "geo": "31.84004,117.26514"},
+  {"landmark": "5th_teaching_building", "geo": "31.84295,117.26552"},
+  {"landmark": "middle_campus_gym", "geo": "31.84042,117.25754"},
+  {"landmark": "art_teaching_centre", "geo": "31.84056,117.25525"},
+  {"landmark": "also_west_lake", "geo": "31.84151,117.25018"},
+  {"landmark": "1958-WEST", "amenity": "coffee", "geo": "31.84094,117.25091"},
+  {"landmark": "west_campus_library", "amenity": "library", "geo": "31.84119,117.25189"},
+  {"landmark": "3rd_teaching_building", "geo": "31.84030,117.24973"},
+  {"landmark": "8348", "amenity": "coffee", "geo": "31.83817,117.24954"}
+]
